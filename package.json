@@ -1,6 +1,6 @@
 {
   "name": "@microbit-foundation/react-carousel",
-  "version": "1.12.21-microbit",
+  "version": "1.12.21-microbit.1",
   "description": "Carousel component for React",
   "engines": {
     "npm": ">=6.14.2"
