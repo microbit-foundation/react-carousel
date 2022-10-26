@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
 import classname from 'classnames';
-import 'wicg-inert/dist/inert';
+import '../utils/inert';
 
 import '../styles/CarouselItem.scss';
 
