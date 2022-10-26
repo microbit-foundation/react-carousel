@@ -6,7 +6,8 @@
     "npm": ">=6.14.2"
   },
   "files": [
-    "lib/*"
+    "lib/*",
+    "typings/*"
   ],
   "scripts": {
     "lint": "esw webpack.config.* src tools test --color",
